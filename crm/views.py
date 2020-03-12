@@ -14,7 +14,7 @@ from django.template.loader import render_to_string
 from django.contrib.auth import login, authenticate
 from django.contrib.auth.forms import UserCreationForm
 from django.shortcuts import render, redirect
-#from weasyprint import HTML
+from weasyprint import HTML
 
 
 now = timezone.now()
