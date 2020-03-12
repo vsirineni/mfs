@@ -1,0 +1,11 @@
+*.pyc
+db.sqlite3
+myvenv
+env
+__pycache__
+local_settings.py
+.DS_Store
+.idea/
+Readme.md
+env/
+
